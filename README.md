@@ -1,2 +1,2 @@
-# Tribute-page-mili-2
-latihan membuat tribute page 
+# Tribute-page-mili
+Tribute page for freecodecamp project
